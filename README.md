@@ -10,7 +10,7 @@
 
 ## Note
 
-Fork from [aaronbaggett/youngmetro](https://github.com/aaronbaggett/youngmetro)
+Fork of [aaronbaggett/youngmetro](https://github.com/aaronbaggett/youngmetro)
 
 ## Purpose
 
